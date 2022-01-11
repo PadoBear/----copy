@@ -1,0 +1,35 @@
+{
+    "name": "期末專案 複製 - Copy",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "controller": "*",
+        "animation": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1",
+        "radio-broadcast": "*",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.1",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.7.24",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}

@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAALC7AAAAAAAAsNULAAAAAACw1b3MzAwAALBVvVtVDACwu1VVVdUMALtVVVVVvQywXVVVVVXLANtVVVVV1csA21VVVVXVywCwXRURVVXLAAC7FRFVVb0MALDbEVVV1QwAALBVvVtVDAAAsNW9zMwMAACw1QsAAAAAALC7AAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "star2"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
